@@ -1,5 +1,7 @@
 # Chart Project README
 
+<img width="809" alt="image" src="https://user-images.githubusercontent.com/5871505/225914687-48d584fd-e27b-40bc-8e1f-038f97b10061.png">
+
 ## Setup
 
 The data is stored in `lib/seeds`.
